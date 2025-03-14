@@ -1,9 +1,9 @@
 package main
 
 import (
-	"crypt/aes"
+	"crypt/dh"
 )
 
 func main() {
-	aes.AES_GCM()
+	dh.ECC_DH()
 }
