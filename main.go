@@ -1,9 +1,10 @@
 package main
 
 import (
-	chacha20salsa20 "crypt/chacha20_salsa20"
+	"crypt/rc"
 )
 
 func main() {
-	chacha20salsa20.Salsa20()
+	rc.Rc6()
+
 }

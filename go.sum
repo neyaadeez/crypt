@@ -1,3 +1,7 @@
+github.com/dgryski/go-rc5 v0.0.0-20241015165209-80a003f42d14 h1:9uPkx4C0o8IU+lCwex91w2vEKOzZCv4x7h2ZzWTLVDQ=
+github.com/dgryski/go-rc5 v0.0.0-20241015165209-80a003f42d14/go.mod h1:yNFLSnz+GswLGWLYkijhXUb5+vLh45wK8t53rp84msc=
+github.com/dgryski/go-rc6 v0.0.0-20181026001059-5073bcd24073 h1:2BthhSMBqRcY4Ds5i7E6vOLKFb2vm11An80AIqR2L00=
+github.com/dgryski/go-rc6 v0.0.0-20181026001059-5073bcd24073/go.mod h1:kjkyaPnAYzUK9bHIY+MJvx/otiVk3ldQ6Hn2Urb17qo=
 golang.org/x/crypto v0.36.0 h1:AnAEvhDddvBdpY+uR+MyHmuZzzNqXSe/GvuDeob5L34=
 golang.org/x/crypto v0.36.0/go.mod h1:Y4J0ReaxCR1IMaabaSMugxJES1EpwhBHhv2bDHklZvc=
 golang.org/x/sys v0.31.0 h1:ioabZlmFYtWhL+TRYpcnNlLwhyxaM9kWTDEmfnprqik=
