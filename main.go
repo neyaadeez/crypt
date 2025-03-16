@@ -1,9 +1,9 @@
 package main
 
 import (
-	"crypt/dh"
+	chacha20salsa20 "crypt/chacha20_salsa20"
 )
 
 func main() {
-	dh.ECC_DH()
+	chacha20salsa20.Salsa20()
 }
